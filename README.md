@@ -1,110 +1,118 @@
 <div align="center">
-  <!-- Top Dynamic Bento Title -->
-  <a href="https://github.com/Arshmansoori">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=%E2%9C%A8+ARSH+MANSOORI;FOUNDER+%26+PRODUCT+ARCHITECT;BUILDING+THE+FUTURE+OF+TECH+%F0%9F%9A%80;0+%E2%86%92+1+EXECUTION+%7C+SCALE" alt="Bento Header" />
+
+  <!-- 🌌 AESTHETIC CYBERPUNK / LO-FI ANIMATED HERO BANNER -->
+  <img src="https://github.com/user-attachments/assets/194028a6-a4aa-4cd1-a56f-b4d7e3da2eff" width="100%" alt="Cyberpunk Lo-Fi Header" />
+
+  <!-- ⚡ NEON GRADIENT WAVING TITLE -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=210&section=header&text=ARSH%20MANSOORI&fontSize=48&fontAlignY=36&desc=%E2%9A%A1%20FOUNDER%20%E2%80%A2%20CYBER%20ARCHITECT%20%E2%80%A2%200%E2%86%921%20BUILDER&descAlignY=62&descAlign=50" width="100%" />
+
+  <!-- 🟢 GLOWING TYPING TERMINAL SVG -->
+  <a href="https://arshmansoori.github.io">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=00FFCC&center=true&vCenter=true&width=620&lines=Initializing+Founder+OS+v2.6...;Architecting+Next-Gen+Ventures+%F0%9F%9A%80;0+%E2%86%92+1+Execution+%7C+Extreme+Speed+%E2%9A%A1;Obsessed+with+Performance+%26+Craft;Welcome+to+my+Digital+Nexus" alt="Typing SVG" />
   </a>
 
+  <br />
+
+  <!-- 🌐 GLOWING 3D INTERACTIVE PORTFOLIO CTA BUTTON -->
   <p align="center">
-    <img src="https://img.shields.io/badge/ROLE-FOUNDER%20%26%20BUILDER-6366f1?style=flat-square" alt="Role" />
-    <img src="https://img.shields.io/badge/VENTURE-ZYVEN-8b5cf6?style=flat-square" alt="Venture" />
-    <img src="https://img.shields.io/badge/STATUS-SHIPPING%20AGGRESSIVELY%20%E2%9A%A1-22c55e?style=flat-square" alt="Status" />
+    <a href="https://arshmansoori.github.io">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90%20ENTER%203D%20INTERACTIVE%20PORTFOLIO-arshmansoori.github.io-00FFCC?style=for-the-badge&logoColor=000&labelColor=0D1117" alt="3D Portfolio Link" />
+    </a>
+  </p>
+
+  <!-- 🚀 SOCIAL MATRIX BADGES -->
+  <p align="center">
+    <a href="https://linkedin.com/in/arshmansoori"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="mailto:dev@zyvenpress.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/Arshmansoori"><img src="https://img.shields.io/badge/Status-SHIPPING%20%E2%9A%A1-22c55e?style=for-the-badge" /></a>
   </p>
 </div>
 
-<br />
+---
 
-<!-- ========================= BENTO GRID LAYOUT ========================= -->
+### 🕹️ SYSTEM SPECIFICATIONS & FOUNDER TELEMETRY
 
-<table width="100%">
-  <!-- ROW 1: Hero Identity + Active Venture -->
+<table>
   <tr>
-    <td width="60%" valign="top">
-      <h3>👤 The Founder</h3>
-      <p>
-        <b>Arsh Mansoori</b> — Entrepreneur & Product Engineer obsessed with turning high-conviction ideas into scalable, production-grade systems.
-      </p>
-      <p>
-        <code>🚀 0 → 1 Builder</code> &nbsp; 
-        <code>⚡ Distributed Architecture</code> &nbsp; 
-        <code>🎨 Modern Product UX</code>
-      </p>
-      <blockquote>
-        <i>"Speed is the ultimate moat. Build fast, test against reality, eliminate noise."</i>
-      </blockquote>
-    </td>
-    <td width="40%" valign="top">
-      <h3>🔥 Active Venture</h3>
-      <p>
-        <img src="https://img.shields.io/badge/VENTURE-ZYVENAPP-6366f1?style=for-the-badge&logo=rocket" alt="Zyven" />
-      </p>
-      <p>
-        <b>Next-Gen High Performance Platform</b><br />
-        Architecting robust, scalable web & mobile digital experiences.
-      </p>
-      <p>
-        👉 <a href="https://github.com/Arshmansoori/zyvenapp"><b>Explore Repository →</b></a>
-      </p>
-    </td>
-  </tr>
-
-  <!-- ROW 2: Tech Arsenal + Live Activity -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Core Engineering Arsenal</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,flutter,docker,aws,gcp,postgres,mongodb&perline=6&theme=dark" width="100%" alt="Tech Stack" />
-      </p>
-      <p>
-        <b>Focus Areas:</b> Cloud Architecture • Full-Stack Systems • High-Concurrency Backends
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Performance & Contribution Index</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=arshmansoori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-
-  <!-- ROW 3: Operating Principles + Streak Velocity -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Operating Principles</h3>
+    <td width="65%" valign="top">
+      <pre>
+╔════════════════════════════════════════════════════════╗
+║  ARSH MANSOORI // FOUNDER & SYSTEM ARCHITECT           ║
+╠════════════════════════════════════════════════════════╣
+║  [+] STATUS:      🟢 Compiling & Shipping 24/7        ║
+║  [+] ACTIVE NODE: Zyven / ZyvenApp Platform            ║
+║  [+] SPECIALTY:   Distributed Systems & Product 0→1    ║
+║  [+] PHILOSOPHY:  "Speed is the Ultimate Moat"         ║
+║  [+] CODENAME:    Nexus Alpha                          ║
+╚════════════════════════════════════════════════════════╝
+      </pre>
       <ul>
-        <li>⚡ <b>Speed as a Feature:</b> Relentless bias for shipping and real-world feedback loops.</li>
-        <li>🎯 <b>Extreme Simplicity:</b> If it doesn't solve a user problem directly, remove it.</li>
-        <li>🧱 <b>Scale with Integrity:</b> Architecture designed for high availability and zero bottleneck.</li>
+        <li>⚡ <b>0 → 1 Velocity:</b> Turning high-conviction ideas into bulletproof production software.</li>
+        <li>🧱 <b>Engineered for Scale:</b> Zero technical debt mindset, extreme simplicity, high throughput.</li>
+        <li>🎯 <b>Venture Spotlight:</b> Building the <a href="https://github.com/Arshmansoori/zyvenapp"><b>Zyven Ecosystem →</b></a></li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Consistency & Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshmansoori&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="Streak Stats" />
-    </td>
-  </tr>
-
-  <!-- ROW 4: Tech Breakdown + Direct Line / Connect -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Language Breakdown</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshmansoori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📫 Direct Line & Network</h3>
-      <p>Always open for technical collaboration, high-conviction startups, and architecture advisory.</p>
-      <p>
-        <a href="https://linkedin.com/in/arshmansoori"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-        <a href="mailto:dev@zyvenpress.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      </p>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=arshmansoori&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-      </p>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/4b2e233b-d247-4076-9850-17e16f9a6862" width="100%" alt="Pixel Streamer" />
     </td>
   </tr>
 </table>
 
-<!-- ========================= END BENTO GRID ========================= -->
+---
+
+### ⚡ WEAPONS OF MASS CREATION (ARSENAL)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,flutter,docker,aws,gcp,postgres,mongodb&perline=6&theme=dark" width="100%" alt="Tech Stack" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MICROSERVICES%20%26%20EVENT--DRIVEN-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/DESIGN-MINIMALIST%20%26%20CYBERPUNK-00FFCC?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PERFORMANCE-SUB--MILLISECOND-22c55e?style=flat-square" />
+</p>
+
+---
+
+### 📊 TELEMETRY & LIVE PERFORMANCE
+
+<div align="center">
+  <!-- GitHub Streak Stats with Neon Border -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshmansoori&theme=tokyonight&hide_border=false&border_color=00FFCC&background=0D1117" alt="GitHub Streak" width="49%" />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arshmansoori&show_icons=true&theme=tokyonight&hide_border=false&border_color=00FFCC&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="49%" />
+</div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,11,1&height=80&section=footer" width="100%" />
+  <!-- Top Languages Used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshmansoori&layout=compact&theme=tokyonight&hide_border=false&border_color=00FFCC&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 CONTRIBUTION MATRIX // SNK DISPATCH
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arshmansoori/arshmansoori/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
+</div>
+
+---
+
+### 🎧 NOW STREAMING // FOUNDER FREQUENCY
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-ac8fe4e991b8" width="80" alt="Pixel Coder" />
+  <br />
+  <code>▶ ılıılıllıılıl 02:45 / 03:50 ── ⚡ HIGH FOCUS MODE // SYNTHWAVE RADIO ⚡ ── 🔈 100%</code>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,2&height=90&section=footer" width="100%" />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=arshmansoori&color=00ffcc&style=flat-square&label=TELEMETRY+VISITS" alt="Visits" />
 </div>
